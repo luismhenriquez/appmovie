@@ -21,7 +21,9 @@ class HomeApp extends StatelessWidget {
               ),
               IconButton(
                 icon: const Icon(Icons.notifications),
-                onPressed: () {},
+                onPressed: () {
+                  print('Hola Mundo');
+                },
               ),
             ],
           ),
