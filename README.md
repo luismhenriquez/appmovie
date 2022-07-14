@@ -1,6 +1,6 @@
-# appmovie
+# App Movie
 
-A new Flutter project.
+Proyecto de Flutter para ver películas
 
 ## Getting Started
 
